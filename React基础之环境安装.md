@@ -1,6 +1,6 @@
 # 环境安装
 
-在终端输入 `npm install -g creact-react-app`
+在终端输入 `npm install -g create-react-app`
 
 然后执行   `create-react-app my-app`
 
